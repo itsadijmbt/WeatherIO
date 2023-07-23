@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/WeatherIO/static/css/main.f10f612d.css",
+    "main.js": "/WeatherIO/static/js/main.14d137fd.js",
+    "static/js/787.ca1567ff.chunk.js": "/WeatherIO/static/js/787.ca1567ff.chunk.js",
+    "static/media/5TRrMA4yc.gif": "/WeatherIO/static/media/5TRrMA4yc.5dea09212c3c639f42bd.gif",
+    "static/media/89bf92102311059.5f33aaf4d90ba.png": "/WeatherIO/static/media/89bf92102311059.5f33aaf4d90ba.b81e4e059dd0040b3645.png",
+    "static/media/background-of-landscape-with-deep-fir-forest-vector-12420324.jpg": "/WeatherIO/static/media/background-of-landscape-with-deep-fir-forest-vector-12420324.0ee0db3fe714721a9289.jpg",
+    "static/media/pngtree-a-white-rain-cloud-png-image_2480509-removebg-preview.png": "/WeatherIO/static/media/pngtree-a-white-rain-cloud-png-image_2480509-removebg-preview.17d2aedf1510ba4d2d59.png",
+    "static/media/r1.gif": "/WeatherIO/static/media/r1.6c234ab9864d054c44f1.gif",
+    "static/media/logo.svg": "/WeatherIO/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/WeatherIO/index.html",
+    "main.f10f612d.css.map": "/WeatherIO/static/css/main.f10f612d.css.map",
+    "main.14d137fd.js.map": "/WeatherIO/static/js/main.14d137fd.js.map",
+    "787.ca1567ff.chunk.js.map": "/WeatherIO/static/js/787.ca1567ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f10f612d.css",
+    "static/js/main.14d137fd.js"
+  ]
+}
